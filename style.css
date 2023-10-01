@@ -1,0 +1,46 @@
+body {
+    background-color: #666;
+    font-family: 'Pixelify Sans', sans;
+}
+
+.busqueda {
+    background-color: #f00000;
+    border-color: #f00000;
+    border-radius: 0;
+    margin-bottom: 0;
+}
+
+.estiloBola{
+    border-radius: 0px;
+    background-color: #333;
+    border-color: #333;
+    height: fit-content;
+    margin-bottom: 0;
+}
+.centro {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 45%;
+    background-color: #fff;
+    width: 10%;
+    height: 100%;
+    color: #fff;
+    box-shadow: 0 0 0 10px #fff;
+    border-radius: 100%;
+}
+
+.input {
+    background-color: #fff;
+    border-radius: 20px;
+    margin: 0;
+}
+
+.poke-card {
+    margin-top: 0;
+    position: relative;
+    height: fit-content;
+    max-width: 100%;
+    text-align: center;
+    border-radius: 0;
+    background-color: #fff;
+}
